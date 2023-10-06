@@ -2,9 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/test-cra-project/
 
-#### `Youtube:` [Обнаружение лица в реальном времени с Tensorflow и React](https://youtu.be/4y_wD39mKXU)
-
-#### `VK Video:` [Обнаружение лица в реальном времени с Tensorflow и React](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239032%2Fclub222570561%2Fpl_-222570561_-2)
+#### `Youtube:` [Как загрузить Create React App в gh-pages](https://youtu.be/nq3ZEvMYsl0)
 
 ---
 
@@ -12,7 +10,9 @@
 
 #### `npm install`
 
-#### `npm start`
+#### `npm run start`
+
+#### `npm run build`
 
 ---
 
