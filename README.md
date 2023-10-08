@@ -4,6 +4,8 @@
 
 #### `Youtube:` [Как загрузить Create React App в gh-pages](https://youtu.be/nq3ZEvMYsl0)
 
+#### `VK Video:` [Как загрузить Create React App в gh-pages](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239045%2Fclub222570561%2Fpl_-222570561_-2)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/test-cra-project.git`
